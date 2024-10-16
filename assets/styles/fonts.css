@@ -1,0 +1,178 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Baskervville+SC&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Afacad+Flux:wght@100..1000&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0&icon_names=chevron_right');
+
+/*Barlow Afacad Flux*/
+
+li {
+  margin-top: 12px; /* Adjust this value to add more space at the top */
+  font-family: "Barlow", sans-serif; 
+  font-weight: 450; /* Light weight */
+  letter-spacing: 1.2px; /* Adjust this value to increase/decrease space between letters */
+  font-size: 16px; /* Adjust this value to increase/decrease the size of the text */
+}
+
+.text-sm.opacity-80 {
+  font-family: "Barlow", sans-serif; 
+  font-size: 20px; /* Adjust this value to increase/decrease the size of the text */
+
+}
+
+.text-xl.font-bold {
+  font-family: "Barlow", sans-serif; 
+  letter-spacing: 1px; /* Adjust this value to increase/decrease space between letters */
+  font-size: 38px; /* Adjust this value to increase/decrease the size of the text */
+  font-weight: 300; /* Light weight */
+  margin: 16px 0; /* 40 pixels above and below */
+  font-weight: bold; /* or a numeric value like 700 or 900 */
+  line-height: 1.2; /* Adjust line-height as needed */
+}
+
+* {
+  font-family: "Afacad Flux", sans-serif;
+}
+
+body {
+  font-family: "Afacad Flux", sans-serif;
+  font-size: 18px; /* Change this value to make the font larger */
+
+}
+
+
+h1 {
+  font-family: "Afacad Flux", sans-serif;
+  letter-spacing: 0,5px; /* Adjust this value to increase/decrease space between letters */
+  font-size: 28px; /* Adjust this value to increase/decrease the size of the text */
+
+}
+
+h2 {
+  font-family: "Afacad Flux", sans-serif; 
+  letter-spacing: 0px; /* Adjust this value to increase/decrease space between letters */
+  font-size: 20px; /* Adjust this value to increase/decrease the size of the text */
+  margin: 16px 0; /* 40 pixels above and below */
+  font-weight: bold; /* or a numeric value like 700 or 900 */
+}
+
+h3 {
+  font-family: "Afacad Flux", sans-serif; 
+  letter-spacing: 0px; /* Adjust this value to increase/decrease space between letters */
+  font-size: 16px; /* Adjust this value to increase/decrease the size of the text */
+  margin: 20px 0px 0px; /* 20 pixels above, 10 pixels below */
+  font-weight: 700; /* or a numeric value like 700 or 900 */
+}
+
+
+
+
+h1 {
+  color: rgb(255, 81, 0);
+}
+
+.montserrat-bold {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-style: normal;
+  text-transform: uppercase;
+}
+.montserrat-semibold {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal;
+    text-transform: uppercase;
+  }
+
+.roboto-thin {
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+  }
+  
+  .roboto-thin-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: italic;
+  }
+  
+  .roboto-light {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  .roboto-light-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: italic;
+  }
+  
+  .roboto-regular {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .roboto-regular-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+  .roboto-medium {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+  .roboto-medium-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: italic;
+  }
+  
+  .roboto-bold {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .roboto-bold-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+  }
+  
+  .roboto-black {
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+  }
+  
+  .roboto-black-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-style: italic;
+  }
+  
+  .appTitle{
+    font-size:1.2em; 
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    line-height: normal;
+  }
+
+  .pageTitle{
+    font-size:5em; 
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    line-height: normal;
+  }
