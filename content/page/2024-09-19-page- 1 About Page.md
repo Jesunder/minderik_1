@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About Erik
+title: About Erik Sergeev
 date: 2024-09-19T13:38:30.130Z
 thumbnail: /img/MyStudio.jpeg
 description: Biography.
