@@ -14,7 +14,7 @@
   v-model="drawer"
   class="drawer"
   :direction="direction"
-  size="75%"
+  size="35%"
 >
   <!-- Drawer content goes here -->
     <div class="">
@@ -36,6 +36,6 @@ const direction = ref<DrawerProps['direction']>('rtl')
 </script>
 
 <style>
-.el-drawer  { background-color: rgba(255, 255, 255, 0.99);}
+.el-drawer  { background-color: rgba(244, 254, 255, 0.99);}
 .dark-mode .el-drawer { background-color: rgba(30, 30, 30, 0.98); }
 </style>
