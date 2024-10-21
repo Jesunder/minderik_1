@@ -39,7 +39,7 @@ onMounted(async () => {
       <!-- Info section that triggers the hover effect -->
       <div class="info flex flex-col items-center justify-center h-screen">
         <div class="container text-left p-1 lg:p-20">
-          <div class="container opacity-80 animate-fade animate-once animate-delay-[100ms] p-10 lg:p-20 bg-neutral-200 dark:bg-black bg-opacity-95 dark:bg-opacity-80 ">
+          <div class="container opacity-80 animate-fade animate-once animate-delay-[100ms] p-10 lg:p-20 bg-neutral-200 dark:bg-black bg-opacity-95 dark:bg-opacity-80 rounded-md ">
             <div class="text-xl font-bold">{{ settings.homepage_title }}</div>
             <div class="text-sm opacity-80">{{ settings.body }}</div>
 

@@ -21,3 +21,18 @@ ul, li {
 h1 {
     color: rgb(255, 98, 0);
 }
+
+.modeling-process {
+    margin: 20px;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.content-container {
+    margin: 40px; /* Unique margin around the entire block */
+    padding: 20px; /* Inner padding for better spacing */
+    border: 1px solid #007BFF; /* Example border color */
+    border-radius: 10px; /* Rounded corners */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+}

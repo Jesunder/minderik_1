@@ -9,17 +9,20 @@ imagegallery:
     - /img/devlier.jpg
     - /img/FABA.jpg
 thumbnail: /img/FABA.jpg
-description: Expertise Page.
+description: My Expertise.
 included: true
 numbernavigation: 100
 promoted: "0"
 ---
 <br>
-<br>
-<br>
 
-# **- What I offer -**
-<br>
+# **Elevate Your Brand with Expert Design Solutions**
+
+In today’s competitive landscape, a strong visual identity is crucial for standing out. I specialize in delivering tailored design solutions that enhance your brand and engage your audience. From cohesive branding and detailed 3D modeling to intuitive UI/UX design and responsive web development, my approach prioritizes collaboration and your unique vision.
+
+Let’s work together to transform your ideas into impactful visuals that drive results.
+
+<div class="content-container">
 
 ### Branding & Identity: <br>
 Developing cohesive and impactful brand visuals that resonate with your audience.
@@ -35,6 +38,9 @@ Designing and coding modern, responsive websites that effectively communicate yo
 
 ### My Process:<br>
 I begin by understanding your unique vision and goals, then craft a strategy that aligns with your brand. From concept to final execution, I collaborate closely with you to ensure the project meets expectations and delivers real results.
+
+</div>
+
 
 <br>
 <br>

@@ -22,9 +22,8 @@ As a hard worker, I strive to deliver results in everything I do, constantly lea
 
 
 <br>
-<br>
 
----
+<div class="modeling-process">
 
 **Skills/Expertise:**
 
@@ -42,4 +41,6 @@ Freelance work on various design and modeling projects<br>
 Education: Media Information Design. <br>
 Cerificate example. <br>
 <br>
+
+</div>
 
