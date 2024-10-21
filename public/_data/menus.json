@@ -1,6 +1,6 @@
 {
   "submenu": {
-    "pagenavigation_on_off": false,
+    "pagenavigation_on_off": true,
     "itemnavigation_on_off": false,
     "blognavigation_on_off": true,
     "foldernavigation_on_off": true
