@@ -19,14 +19,14 @@ li {
 
 .text-sm.opacity-80 {
   font-family: "Barlow", sans-serif; 
-  font-size: 20px; /* Adjust this value to increase/decrease the size of the text */
+  font-size: 24px; /* Adjust this value to increase/decrease the size of the text */
 
 }
 
 .text-xl.font-bold {
   font-family: "Barlow", sans-serif; 
   letter-spacing: 1px; /* Adjust this value to increase/decrease space between letters */
-  font-size: 38px; /* Adjust this value to increase/decrease the size of the text */
+  font-size: 50px; /* Adjust this value to increase/decrease the size of the text */
   font-weight: 300; /* Light weight */
   margin: 16px 0; /* 40 pixels above and below */
   font-weight: bold; /* or a numeric value like 700 or 900 */

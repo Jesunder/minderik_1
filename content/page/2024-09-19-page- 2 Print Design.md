@@ -17,6 +17,10 @@ promoted: "0"
 #  **Project: Onderkruipsels**
 ---
 
+<button class="animate-wiggle">
+  Hej, look at me!
+</button>
+
 ## What is it about?
 
 For our assignment we are creating a museums catologus for the exhibition ”Onderkruipsels” at the Rijksmuseum in Amsterdam. Alongside of this we were provided a large digital archive from the musuem it self that gave us high quality images. We choose our own format, proportions, number of pages and fonts keeping in mind the context of the exhibition. Therefore the aim is for a comfortable and enjoyable readability.

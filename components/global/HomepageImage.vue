@@ -35,11 +35,22 @@ onMounted(async () => {
     >
     <div class="pr-5">
       <Drawer />
+      
+    <div class="flex justify-center p-4 ">
+      <img src="/public/img/Logo.png" alt="Logo" class="w-[250px] animate-fade animate-duration-[2000ms] animate-delay-[1500ms]" style="position: absolute; left: 30px; bottom: 30px;">
+    </div>
+
+    <!--<div class="flex justify-center p-4 ">
+      <img src="/public/img/coolback.png" alt="Logo" class="w-[700px]" style="position: absolute; left: 0px; top: 200px;">
+    </div> -->
+
+    
+
     </div>
       <!-- Info section that triggers the hover effect -->
       <div class="info flex flex-col items-center justify-center h-screen">
-        <div class="container text-left p-1 lg:p-20">
-          <div class="container opacity-80 animate-fade animate-once animate-delay-[100ms] p-10 lg:p-20 bg-neutral-200 dark:bg-black bg-opacity-95 dark:bg-opacity-80 rounded-md ">
+        <div class="text-left p-1 lg:p-1" style="margin-left: auto; width: 900px; height: 500px;">
+          <div class="opacity-80 animate-fade-left animate-once animate-duration-[2000ms] animate-delay-[350ms] p-10 lg:p-20 bg-neutral-200 dark:bg-black bg-opacity-0 dark:bg-opacity-80 rounded-md ">
             <div class="text-xl font-bold">{{ settings.homepage_title }}</div>
             <div class="text-sm opacity-80">{{ settings.body }}</div>
 
@@ -59,5 +70,5 @@ onMounted(async () => {
         </div>
       </div>
   </div>
-</div>  
+</div>
 </template>
